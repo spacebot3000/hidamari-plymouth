@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=hidamari
+Description=A theme made from the opening animation from season 1 of Hidamari Sketch
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/hidamari/images
+ScriptFile=/usr/share/plymouth/themes/hidamari/hidamari.script
